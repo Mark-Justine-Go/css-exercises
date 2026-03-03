@@ -24,3 +24,20 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/*solution*/
+
+body{
+  text-align: center;
+}
+
+.plants{
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  margin-top: 30px;
+}
+
+.card{
+  max-width: 250px;
+}
